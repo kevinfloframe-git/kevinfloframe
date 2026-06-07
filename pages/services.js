@@ -5,10 +5,10 @@ import Footer from '../components/Footer'
 const PACKAGES = [
   {
     name: 'Headshots — Essential',
-    price: '$250',
+    price: '$200',
     duration: '1 hr',
-    deposit: '$125',
-    highlights: ['1 outfit / look', '2 edited finals', 'Digital delivery'],
+    deposit: '$100',
+    highlights: ['1 outfit / look', '5 edited finals', 'Digital delivery'],
   },
   {
     name: 'Headshots — Pro',
@@ -41,9 +41,9 @@ const PACKAGES = [
   },
   {
     name: 'Product Photography',
-    price: 'From $300',
+    price: 'From $450',
     duration: '2 hr',
-    deposit: '$150',
+    deposit: '$225',
     highlights: ['White / dark background', '10 edited finals', 'Commercial license included'],
     note: 'Pricing varies by product count and complexity',
   },
